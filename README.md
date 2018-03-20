@@ -1,6 +1,6 @@
 # Vue on Rails extensions
 
-This is a collection of extension packs for Vue on Rails projects. These VS code extensions make developing Vue components 
+This is a collection of extensions for Vue on Rails projects. These VS code extensions make developing Vue components 
 on Ruby on Rails, productive and fun. 
 
 # Extensions included
